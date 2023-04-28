@@ -29,6 +29,7 @@ nav {
 .navbar_right {
     display: flex;
     justify-content: space-between;
+    margin-top: 30px;
 }
 
 .navbar_right_img1 {
@@ -92,6 +93,7 @@ nav {
     border-bottom-left-radius: 70px;
     border-top-right-radius: 70px;
     border: 2px #156963 solid;
+    box-shadow: 10px 10px 20px #156963;
 
 }
 
@@ -104,7 +106,78 @@ nav {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 68px;
+    font-size: 78px;
     line-height: 83px;
     color: #156963;
+}
+
+.lorem100 {
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #2C1500;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.lorem {
+    margin-top: 30px;
+}
+
+.group {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.dostavka {
+    margin-top: 140px;
+    border: 2px solid #156963;
+    padding: 5px 10px;
+    border-radius: 15px;
+    box-shadow: 5px 10px 20px #156963;
+    margin-bottom: 100px;
+}
+
+.hal {
+    text-align: center;
+    border: 2px solid #156963;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #156963;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.kaktus {
+    border-bottom: 2px solid #156963;
+    width: 193px;
+}
+
+.text2 {
+    margin-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.text-small {
+    font-family: 'Montserrat';
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+#we {
+    height: 195px;
 }
