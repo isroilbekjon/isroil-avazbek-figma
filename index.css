@@ -181,3 +181,169 @@ nav {
 #we {
     height: 195px;
 }
+
+.left_center_left_text {
+    margin-top: 150px;
+    margin-left: 80px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+    color: #2C1500;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-bottom: 20px;
+}
+
+
+
+.left_center_left_text2 {
+    font-family: 'Montserrat';
+    margin-bottom: 50px;
+    margin-left: 80px;
+    width: 420px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #2C1500;
+    opacity: 0.8;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.left_center_left_img {
+    width: 600px;
+    height: 300px;
+    background: url(img/liana-mikah-8tJxjQWTyNA-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+    border: 2px solid #156963;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    box-shadow: 10px 10px 20px #156963;
+}
+
+.right_center {
+    background: url(img/jason-leung-r5pPYI6lEpA-unsplash\ 1.png);
+    width: 500px;
+    height: 700px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border: 2px solid #156963;
+    box-shadow: 10px 10px 20px #156963;
+}
+
+#isroil2 {
+    font-size: small;
+    margin-left: 70px;
+
+}
+
+.pocti {
+    background: url(img/sanni-sahil-Y71kWrdt14k-unsplash\ 1.png);
+    width: 400px;
+    height: 358px;
+}
+
+.section-2 {
+    background: #F3F4F6;
+    height: 360px;
+    margin-top: 120px;
+    border: 2px solid #156963;
+    box-shadow: 10px 10px 20px #156963;
+    margin-bottom: 90px;
+}
+
+#isroil3 {
+    margin-top: 90px;
+}
+
+.end-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #156963;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.end-text-center {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 19px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+.end-text-end {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+
+.end-start {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.end-center {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.end-center- {
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.endend {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 16px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.isa{
+    margin-top: 100px;
+}
+.input{
+    margin-top: 20px;
+    padding: 5px 20px;
+}
+#isroil5{
+    margin-left: 0;
+    font-size: medium;
+}
+.section-5{
+    border-top: 2px solid #156963;
+
+}
