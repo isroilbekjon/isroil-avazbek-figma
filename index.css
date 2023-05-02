@@ -351,14 +351,17 @@ nav {
     border-top: 2px solid #156963;
 
 }
-.center_text{
+
+.center_text {
     text-decoration: none;
 }
-.section-6{
+
+.section-6 {
     text-decoration: none;
 }
-#tyu{
-    text-decoration: none   ;
+
+#tyu {
+    text-decoration: none;
 }
 
 
@@ -378,18 +381,21 @@ nav {
         border: 2px #156963 solid;
         box-shadow: 10px 10px 20px #156963;
     }
+
     .navbar_right_img1 {
         height: 25px;
         width: 25px;
         margin-top: 25px;
         margin-left: 100px;
     }
+
     .navbar_right {
         display: flex;
         justify-content: space-between;
         margin-top: 30px;
         gap: 50px;
     }
+
     .left {
         display: flex;
         position: absolute;
@@ -405,6 +411,7 @@ nav {
         border: 2px #156963 solid;
         margin-top: 111px;
     }
+
     .navbar_left_image {
         position: absolute;
         top: 42px;
@@ -416,6 +423,7 @@ nav {
         background-repeat: no-repeat;
         background-size: cover;
     }
+
     .lorem100 {
         display: flex;
         font-family: 'Montserrat';
@@ -431,13 +439,125 @@ nav {
         order: 1;
         flex-grow: 0;
     }
+
     .section-6 {
         text-decoration: none;
         margin: -75px;
         margin-left: -8px;
     }
+
     #tyu {
         text-decoration: none;
         margin-top: -75px;
+    }
+
+
+
+    .left_center_left_text {
+        margin-top: 150px;
+        margin-left: 80px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 56px;
+        color: #2C1500;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin-bottom: 20px;
+        width: 430px;
+    }
+
+    #isroil3 {
+        margin-top: 90px;
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .pocti {
+        background: url(img/sanni-sahil-Y71kWrdt14k-unsplash\ 1.png);
+        height: 348px;
+        width: auto;
+    }
+
+    .section-2 {
+        background: #F3F4F6;
+        height: 356px;
+        margin-top: 120px;
+        border: 2px solid #156963;
+        box-shadow: 10px 10px 20px #156963;
+        margin-bottom: 90px;
+        width: 600px;
+    }
+
+
+    .end-text {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: #156963;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin-top: 100px;
+        margin-bottom: 40px;
+    }
+
+    .end-text-center {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 19px;
+        color: #333333;
+        margin-bottom: 10px;
+    }
+
+    .end-text-end {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        color: #4F4F4F;
+    }
+
+    .end-start {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 20px;
+        color: #000000;
+    }
+
+    .endend {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin-left: 159px;
+        margin-top: -11px;
+    }
+
+    #isroil5 {
+        margin-left: 0;
+        font-size: medium;
+        margin-left: 132px;
+    }
+    .input {
+        margin-top: 20px;
+        padding: 5px 20px;
+        margin-left: 133px;
     }
 }
