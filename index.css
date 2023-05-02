@@ -560,4 +560,13 @@ nav {
         padding: 5px 20px;
         margin-left: 133px;
     }
+    .end-text-end {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        color: #4F4F4F;
+        width: 200px;
+    }
 }
