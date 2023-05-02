@@ -351,9 +351,15 @@ nav {
     border-top: 2px solid #156963;
 
 }
-
-
-
+.center_text{
+    text-decoration: none;
+}
+.section-6{
+    text-decoration: none;
+}
+#tyu{
+    text-decoration: none   ;
+}
 
 
 @media (max-width: 576px) {
@@ -424,5 +430,14 @@ nav {
         flex: none;
         order: 1;
         flex-grow: 0;
+    }
+    .section-6 {
+        text-decoration: none;
+        margin: -75px;
+        margin-left: -8px;
+    }
+    #tyu {
+        text-decoration: none;
+        margin-top: -75px;
     }
 }
