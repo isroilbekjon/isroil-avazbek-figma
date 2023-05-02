@@ -332,18 +332,97 @@ nav {
     order: 0;
     flex-grow: 0;
 }
-.isa{
+
+.isa {
     margin-top: 100px;
 }
-.input{
+
+.input {
     margin-top: 20px;
     padding: 5px 20px;
 }
-#isroil5{
+
+#isroil5 {
     margin-left: 0;
     font-size: medium;
 }
-.section-5{
+
+.section-5 {
     border-top: 2px solid #156963;
 
+}
+
+
+
+
+
+@media (max-width: 576px) {
+    .left {
+        display: flex;
+        position: absolute;
+        width: 600px;
+        height: 745px;
+        /* top: 0; */
+        background: url(img/pexels-cottonbro-4503751\ 1.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-right: 20px;
+        border-bottom-left-radius: 70px;
+        border-top-right-radius: 70px;
+        border: 2px #156963 solid;
+        box-shadow: 10px 10px 20px #156963;
+    }
+    .navbar_right_img1 {
+        height: 25px;
+        width: 25px;
+        margin-top: 25px;
+        margin-left: 100px;
+    }
+    .navbar_right {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+        gap: 50px;
+    }
+    .left {
+        display: flex;
+        position: absolute;
+        width: 600px;
+        height: 745px;
+        top: 0;
+        background: url(img/pexels-cottonbro-4503751\ 1.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-right: 20px;
+        border-bottom-left-radius: 70px;
+        border-top-right-radius: 70px;
+        border: 2px #156963 solid;
+        margin-top: 111px;
+    }
+    .navbar_left_image {
+        position: absolute;
+        top: 42px;
+        margin-left: 15px;
+        display: flex;
+        width: 50px;
+        height: 50px;
+        background: url(img/Group\ 5.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .lorem100 {
+        display: flex;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        margin-top: 384px;
+        font-size: 20px;
+        line-height: 32px;
+        color: #2C1500;
+        width: 436px;
+        margin-left: 105px;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    }
 }
